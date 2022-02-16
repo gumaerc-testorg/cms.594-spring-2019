@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/cms-594-education-technology-studio-spring-2019/f58c2d2fd4226576afb008dc91f9b419_MITCMS_594S19_ses12.pdf
+file: /media/courses/cms-594-education-technology-studio-spring-2019/f58c2d2fd4226576afb008dc91f9b419_MITCMS_594S19_ses12.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'CMS.594 Education Technology Studio, Session 12: Ideation and Prototyping'
 uid: f58c2d2f-d422-6576-afb0-08dc91f9b419

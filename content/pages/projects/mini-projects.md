@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 87aa42b4-d995-3fdb-cd6f-a28479e46e15
 title: Mini Projects
 uid: 2b545b13-a200-3d58-2227-a594f59e26a4

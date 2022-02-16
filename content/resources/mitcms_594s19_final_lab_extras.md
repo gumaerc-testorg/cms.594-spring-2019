@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/cms-594-education-technology-studio-spring-2019/ccf36bfb2b3f328405583da0c4b67e2c_MITCMS_594S19_final_lab_extras.zip
+file: /media/courses/cms-594-education-technology-studio-spring-2019/ccf36bfb2b3f328405583da0c4b67e2c_MITCMS_594S19_final_lab_extras.zip
 file_type: application/zip
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Final Project
+parent_type: CourseSection
 resourcetype: Other
 title: MITCMS_594S19_final_lab_extras.zip
 uid: ccf36bfb-2b3f-3284-0558-3da0c4b67e2c

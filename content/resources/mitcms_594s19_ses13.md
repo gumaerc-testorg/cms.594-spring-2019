@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/cms-594-education-technology-studio-spring-2019/87414b74817f16360403be2a7c7218ef_MITCMS_594S19_ses13.pdf
+file: /media/courses/cms-594-education-technology-studio-spring-2019/87414b74817f16360403be2a7c7218ef_MITCMS_594S19_ses13.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'CMS.594 Education Technology Studio, Session 13: Playtesting'
 uid: 87414b74-817f-1636-0403-be2a7c7218ef

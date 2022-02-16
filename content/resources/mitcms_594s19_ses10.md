@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/cms-594-education-technology-studio-spring-2019/6960db204c2513b180a0c5ad067cc552_MITCMS_594S19_ses10.pdf
+file: /media/courses/cms-594-education-technology-studio-spring-2019/6960db204c2513b180a0c5ad067cc552_MITCMS_594S19_ses10.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'CMS.594 Education Technology Studio, Session 10: Mini Project 3 Demo & Final
   Project Review'
