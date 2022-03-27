@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: b74860cf-666d-4a97-3b25-31ebac86f8b0
 resourcetype: Document
 title: 'CMS.594 Education Technology Studio, Session 5: Introduction to Practice Spaces'
 uid: 91f6d988-6d7e-5625-c975-cecb836af07c

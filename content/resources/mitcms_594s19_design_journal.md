@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Design Journal
 parent_type: CourseSection
+parent_uid: ace93d2b-fbf7-732b-4baf-d796ac722cc5
 resourcetype: Document
 title: 'CMS.594/CMS.894 Education Technology Studio '
 uid: a7930549-7fd6-31b4-d3ae-ef893d43a937
