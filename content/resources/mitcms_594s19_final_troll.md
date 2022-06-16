@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/cms-594-education-technology-studio-spring-2019/34aaafa8fbcf3682f5ae4945a80e9361_MITCMS_594S19_final_troll.pdf
+file: /courses/cms-594-education-technology-studio-spring-2019/34aaafa8fbcf3682f5ae4945a80e9361_MITCMS_594S19_final_troll.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects

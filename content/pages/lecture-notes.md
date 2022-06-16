@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Class descriptions, including session activities and lecture slides,
+  for CMS.594 Education Technology Studio.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -7,7 +9,7 @@ title: Lecture Notes
 uid: b74860cf-666d-4a97-3b25-31ebac86f8b0
 ---
 
-This page includes a description of each class, the session activities, and the corresponding slides for each class. At the end of each class, students are asked to complete an [exit ticket (PDF)]({{< baseurl >}}/resources/mitcms_594s19_exit) which is the same for each session.
+This page includes a description of each class, the session activities, and the corresponding slides for each class. At the end of each class, students are asked to complete an {{% resource_link d9943272-1c80-9b33-a3de-636f978200ee "exit ticket (PDF)" %}} which is the same for each session.
 
 Class 1: Introduction and welcome
 ---------------------------------
@@ -17,14 +19,14 @@ As an introduction to the course, the first 1.5 hours will be focused on a simpl
 ### Session activities:
 
 *   Design thinking exercise.
-*   Personalize your [design journal]({{< baseurl >}}/pages/projects/design-journal).
+*   Personalize your {{% resource_link ace93d2b-fbf7-732b-4baf-d796ac722cc5 "design journal" %}}.
 *   Mini-lesson as intro to each unit (Practice Spaces, Learning Analytics, Accessibility, Final Project).
 
 ### Before you leave class:
 
-Take the [Welcome Survey (PDF)]({{< baseurl >}}/resources/mitcms_594s19_welcome) so we can gauge your motivation for taking the course, understand more about your interests and technical experience, and make informed decisions about partner formation.
+Take the {{% resource_link d051bfc3-1f77-5c58-d52a-2e9759e8c81b "Welcome Survey (PDF)" %}} so we can gauge your motivation for taking the course, understand more about your interests and technical experience, and make informed decisions about partner formation.
 
-[Class 1: Introduction and welcome slides (PDF - 1MB)]({{< baseurl >}}/resources/mitcms_594s19_ses1)
+{{% resource_link 66ad4f2e-c6bc-b1e3-c4f1-d042b0ff3287 "Class 1: Introduction and welcome slides (PDF - 1MB)" %}}
 
 Class 2: Introduction to learning analytics and educational data mining
 -----------------------------------------------------------------------
@@ -37,14 +39,14 @@ This class will explore learning analytics as an emerging field of research. Lea
     
     learning analytics applications.
     
-*   Students include brainstorm notes, images, or code in their [design journals]({{< baseurl >}}/pages/projects/design-journal).
+*   Students include brainstorm notes, images, or code in their {{% resource_link ace93d2b-fbf7-732b-4baf-d796ac722cc5 "design journals" %}}.
     
 *   Unit 1 group formation (based on common schedules and interests).
     
 *   Complete an exit ticket.
     
 
-[Class 2: Introduction to learning analytics and educational data mining slides (PDF)]({{< baseurl >}}/resources/mitcms_594s19_ses2)
+{{% resource_link decbfdfa-9e69-2515-eb94-4b71f50aa1fb "Class 2: Introduction to learning analytics and educational data mining slides (PDF)" %}}
 
 Class 3: Playtesting your analysis and visualization
 ----------------------------------------------------
@@ -57,7 +59,7 @@ During this session we will discuss the use of visualization and dashboards in e
 *   Individual or group work in mini-project with time from instructor to solve questions for the mini-project due the following week.
 *   Complete an exit ticket.
 
-[Class 3: Playtesting your analysis and visualization slides (PDF)]({{< baseurl >}}/resources/mitcms_594s19_ses3)
+{{% resource_link f110f5b5-7ba8-ffce-90a0-685c30fde7b9 "Class 3: Playtesting your analysis and visualization slides (PDF)" %}}
 
 Class 4: Final demonstration of your data-driven work
 -----------------------------------------------------
@@ -67,10 +69,10 @@ During this session, each team will present the visualization project that they 
 ### Session activities:
 
 *   Each mini-project will be presented in front of the class with time for Q&A and feedback.
-*   Students will write a reflection in their [design journals]({{< baseurl >}}/pages/projects/design-journal) on what they would do if they had four more weeks to work on mini-project #1.
+*   Students will write a reflection in their {{% resource_link ace93d2b-fbf7-732b-4baf-d796ac722cc5 "design journals" %}} on what they would do if they had four more weeks to work on mini-project #1.
 *   Complete an exit ticket.
 
-[Class 4: Final demonstration of your data-driven work slides (PDF)]({{< baseurl >}}/resources/mitcms_594s19_ses4)
+{{% resource_link 4d7432cc-3920-243f-babd-0cc3c8b2b635 "Class 4: Final demonstration of your data-driven work slides (PDF)" %}}
 
 Class 5: Introduction to practice spaces
 ----------------------------------------
@@ -84,7 +86,7 @@ For mini-project #2, you will develop a practice space for an educational settin
 *   We will begin class by playesting some existing TSL practice spaces. The instructor will provide a brief introduction to the philosophy behind practice spaces and how to identify an appropriate setting and problem for a practice space. Students will then have an opportunity to use work-time to create their own practice spaces.
 *   Complete an exit ticket.
 
-[Class 5: Introduction to practice spaces slides (PDF)]({{< baseurl >}}/resources/mitcms_594s19_ses5)
+{{% resource_link 91f6d988-6d7e-5625-c975-cecb836af07c "Class 5: Introduction to practice spaces slides (PDF)" %}}
 
 Class 6: Designing practice spaces
 ----------------------------------
@@ -96,7 +98,7 @@ Designing a practice involves a number of different design considerations that a
 *   Following a lecture and discussion on design considerations in practice spaces, students will playtest and receive feedback on each other’s prototypes from peers and the instructor. Students will have time at the end of class to work on their prototypes.
 *   Complete an exit ticket.
 
-[Class 6: Designing practice spaces slides (PDF)]({{< baseurl >}}/resources/mitcms_594s19_ses6)
+{{% resource_link 0e7ee837-3bb4-a61d-6cbf-79f50735a52d "Class 6: Designing practice spaces slides (PDF)" %}}
 
 Class 7: Demonstrations of practice space mini-projects
 -------------------------------------------------------
@@ -106,7 +108,7 @@ This class will provide students with opportunities to present their revised pra
 ### Session activities:
 
 *   Depending on the number of students in the class, we will either playtest the prototypes as a whole class or break out into groups. Students should take notes while people are playesting their prototype so they can make improvements for subsequent iterations.
-*   Students will have time at the end of class to work on a [design journal]({{< baseurl >}}/pages/projects/design-journal) entry from this mini-project about what they would do if they had four more weeks to work on this project.
+*   Students will have time at the end of class to work on a {{% resource_link ace93d2b-fbf7-732b-4baf-d796ac722cc5 "design journal" %}} entry from this mini-project about what they would do if they had four more weeks to work on this project.
 *   Complete an exit ticket.
 
 No slides for class 7. 
@@ -123,7 +125,7 @@ This class will explore accessibility from a Universal Design for Learning (UDL)
 *   After considering how UDL can improve the comparison technology, we will discuss what we saw in terms of features available in Book Builder and the comparison technology.
 *   Complete an exit ticket.
 
-[Class 8: Choose a UDL principle and a learning environment to improve slides (PDF)]({{< baseurl >}}/resources/mitcms_594s19_ses8)
+{{% resource_link 007a5d2e-6bbc-cdda-e025-b6dba74bae05 "Class 8: Choose a UDL principle and a learning environment to improve slides (PDF)" %}}
 
 Class 9: Playtest
 -----------------
@@ -135,7 +137,7 @@ We will discuss how current assessment practices may not be ideal in determining
 *   Short lecture followed by opportunity to give feedback on each other’s prototypes. Students will work on their mini-project #3 prototypes in the remaining class time.
 *   Complete an exit ticket.
 
-[Class 9: Playtest slides (PDF)]({{< baseurl >}}/resources/mitcms_594s19_ses9)
+{{% resource_link 5771895b-0ffd-541e-2302-e659593eb43b "Class 9: Playtest slides (PDF)" %}}
 
 Class 10: **Refine and final demo**
 -----------------------------------
@@ -146,11 +148,11 @@ This class will provide students with opportunities to get feedback on their UDL
 
 *   Depending on the number of students in the class, we will either playtest the prototypes as a whole class or break out into groups.
 *   Students should take notes while people are playesting their prototype so they can make improvements on future projects.
-*   Students will complete a short [design journal]({{< baseurl >}}/pages/projects/design-journal) writing about what they would do if they worked on this for four more weeks for the final project.
+*   Students will complete a short {{% resource_link ace93d2b-fbf7-732b-4baf-d796ac722cc5 "design journal" %}} writing about what they would do if they worked on this for four more weeks for the final project.
 *   The last 30-60 minutes of class will include a preview of the structure for the final project unit.
 *   Complete an exit ticket.
 
-[Class 10: Refine and final demo slides (PDF)]({{< baseurl >}}/resources/mitcms_594s19_ses10)
+{{% resource_link 6960db20-4c25-13b1-80a0-c5ad067cc552 "Class 10: Refine and final demo slides (PDF)" %}}
 
 Class 11: Problem finding—empathy/stakeholder interviews
 --------------------------------------------------------
@@ -159,7 +161,7 @@ Working individually or in pairs as deemed appropriate, students will identify a
 
 ### Session activities:
 
-*   Part 1: Identifying a problem of practice: In your [design journal]({{< baseurl >}}/pages/projects/design-journal), working in your final project pairs (or individually), use the template to create four slides as follows:
+*   Part 1: Identifying a problem of practice: In your {{% resource_link ace93d2b-fbf7-732b-4baf-d796ac722cc5 "design journal" %}}, working in your final project pairs (or individually), use the template to create four slides as follows:
     1.  **Problem of practice:** state the educational problem of practice where your innovation provides a potential solution. You may include links to supporting evidence of the importance of this problem of practice (e.g. articles, blogs, media), images, and/or other supporting data;
     2.  **Existing solution:** how have others addressed this problem?
     3.  **Proposed solution:** describe how the proposed extension to your select mini-project can help with the problem of practice in a way that addresses limitations of or adds value to existing solutions. You may include sketches or images that can help others visualize your idea;
@@ -170,7 +172,7 @@ Working individually or in pairs as deemed appropriate, students will identify a
 *   Part 3: Final project overview. The instructor will provide an overview of the elements of the final presentation which include: (1) project prototype, (2) final presentation, and (3) a written product.
 *   Complete an exit ticket.
 
-[Class 11: Problem finding—empathy/stakeholder interviews slides (PDF)]({{< baseurl >}}/resources/mitcms_594s19_ses11)
+{{% resource_link e75265ad-66eb-a79f-ea8f-d6eb0b007b75 "Class 11: Problem finding—empathy/stakeholder interviews slides (PDF)" %}}
 
 Class 12: Ideation and prototyping
 ----------------------------------
@@ -183,7 +185,7 @@ In this class, students will share key takeaways from their stakeholder/ empathy
 *   The majority of the class is devoted to ideation and prototyping with opportunities for support from course instructors and peer feedback.
 *   Complete an exit ticket.
 
-[Class 12: Ideation and prototyping slides (PDF)]({{< baseurl >}}/resources/mitcms_594s19_ses12)
+{{% resource_link f58c2d2f-d422-6576-afb0-08dc91f9b419 "Class 12: Ideation and prototyping slides (PDF)" %}}
 
 Class 13: Playtesting
 ---------------------
@@ -195,7 +197,7 @@ The first part of this session will be devoted to students playtesting their fin
 *   Playtest and debrief
 *   Instructor meeting time and project work time
 *   Expectations for final project presentations
-*   Create a template for your final project presentation that links to your [design journal]({{< baseurl >}}/pages/projects/design-journal) with the following slides:
+*   Create a template for your final project presentation that links to your {{% resource_link ace93d2b-fbf7-732b-4baf-d796ac722cc5 "design journal" %}} with the following slides:
     1.  Project title and team members
     2.  Problem of practice
     3.  Existing solutions
@@ -209,7 +211,7 @@ The first part of this session will be devoted to students playtesting their fin
 *   Prepare for your final project products
 *   Complete an exit ticket
 
-[Class 13: Playtesting slides (PDF)]({{< baseurl >}}/resources/mitcms_594s19_ses13)
+{{% resource_link 87414b74-817f-1636-0403-be2a7c7218ef "Class 13: Playtesting slides (PDF)" %}}
 
 Class 14: Final project presentations
 -------------------------------------

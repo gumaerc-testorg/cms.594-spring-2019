@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Syllabus, including course goals and grading policies, for CMS.594 Education
+  Technology Studio.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

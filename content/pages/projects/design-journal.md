@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Design journal assignments and instructions for CMS.594 Education Technology
+  Studio.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -10,7 +12,7 @@ title: Design Journal
 uid: ace93d2b-fbf7-732b-4baf-d796ac722cc5
 ---
 
-Short assignments in the form of a design journal entry or technical preparation will be completed each week. Design journal reflections will be completed in a semi-public journal and typically will be shared in class with peers. In addition, the design journal will serve as a landing page for all mini and final projects. Students are instructed to use the [design journal template (PDF)]({{< baseurl >}}/resources/mitcms_594s19_design_journal). 
+Short assignments in the form of a design journal entry or technical preparation will be completed each week. Design journal reflections will be completed in a semi-public journal and typically will be shared in class with peers. In addition, the design journal will serve as a landing page for all mini and final projects. Students are instructed to use the {{% resource_link a7930549-7fd6-31b4-d3ae-ef893d43a937 "design journal template (PDF)" %}}. 
 
 Assignments listed are due at the start of class. 
 
@@ -93,7 +95,7 @@ Ideate and implement some analysis, charts and visualizations based on the provi
 
 In your design journal, you will prepare a final prototype of your learning analytics data-driven product to be presented in class. During class you will be doing a presentation of 10 min + 5 min of questions explaining your motivation to develop this project, who can use this, how and with what objective, and rationale of your technical decisions.
 
-[Mini-project #1]({{< baseurl >}}/pages/projects/mini-projects) submission report and presentation is due before class.
+{{% resource_link 2b545b13-a200-3d58-2227-a594f59e26a4 "Mini-project #1" %}} submission report and presentation is due before class.
 
 _Where to submit:_ Students will include a link to the presentation slides in their design journal and should upload mini-project #1 submission report to the course website.
 
@@ -148,7 +150,7 @@ _Where to submit:_ In your design journal (include links when possible). If it�
 {{< tdopen >}}
 
 
-[Mini-project #2]({{< baseurl >}}/pages/projects/mini-projects) prototype and submission report due. Students will include a link to the demo in their design journal and should upload mini-project #2 submission report to the course website.
+{{% resource_link 2b545b13-a200-3d58-2227-a594f59e26a4 "Mini-project #2" %}} prototype and submission report due. Students will include a link to the demo in their design journal and should upload mini-project #2 submission report to the course website.
 
 
 {{< tdclose >}}
@@ -199,7 +201,7 @@ Prototype of how to improve technology with UDL for all students including stude
 {{< tdopen >}}
 
 
-[Mini-project #3]({{< baseurl >}}/pages/projects/mini-projects) revised prototype memo due. Students will include a link to the demo in their design journal and should upload mini-project #3 submission report to the course website.
+{{% resource_link 2b545b13-a200-3d58-2227-a594f59e26a4 "Mini-project #3" %}} revised prototype memo due. Students will include a link to the demo in their design journal and should upload mini-project #3 submission report to the course website.
 
 
 {{< tdclose >}}
@@ -284,7 +286,7 @@ _Where to submit_: In your design journal (include links when possible). Cases w
 {{< tdopen >}}
 
 
-All [final project]({{< baseurl >}}/pages/projects/final-project) components due: (1) Final project prototype, (2) final presentation slide deck, and (3) written product.
+All {{% resource_link 2307cf57-60eb-7e83-b3aa-c9be16cb1553 "final project" %}} components due: (1) Final project prototype, (2) final presentation slide deck, and (3) written product.
 
 _Where to submit_: Project prototype and slide deck should be linked in the design journal. The final written product should be uploaded to the course website.
 

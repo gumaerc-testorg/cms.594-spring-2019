@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/cms-594-education-technology-studio-spring-2019/654d40c296b4310d547998c54e6ba5d2_MITCMS_594S19_mini1_visualizing.pdf
+file: /courses/cms-594-education-technology-studio-spring-2019/654d40c296b4310d547998c54e6ba5d2_MITCMS_594S19_mini1_visualizing.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

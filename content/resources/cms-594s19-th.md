@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/cms-594-education-technology-studio-spring-2019/5210a6eaf97acfedeb39a3701fb53ab6_CMS-594S19-th.jpeg
+file: /courses/cms-594-education-technology-studio-spring-2019/5210a6eaf97acfedeb39a3701fb53ab6_CMS-594S19-th.jpeg
 file_type: image/jpeg
 image_metadata:
   caption: Diagram from a final project in the course that uses roleplaying to improve
