@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: Calendar of sessions, topics, and key dates for CMS.594 Education Technology
+  Studio.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: acd0aeef-a4dc-9b9b-9d59-acb002925d49
 ---
