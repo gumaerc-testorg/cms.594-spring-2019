@@ -5,6 +5,7 @@ file: /courses/cms-594-education-technology-studio-spring-2019/4d7432cc3920243fb
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

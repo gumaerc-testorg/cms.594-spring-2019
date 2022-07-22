@@ -5,6 +5,7 @@ file: /courses/cms-594-education-technology-studio-spring-2019/ccf36bfb2b3f32840
 file_type: application/zip
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Final Project
 parent_type: CourseSection

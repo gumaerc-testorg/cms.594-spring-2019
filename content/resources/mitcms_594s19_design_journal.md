@@ -4,6 +4,7 @@ description: ''
 file: /courses/cms-594-education-technology-studio-spring-2019/a79305497fd631b4d3aeef893d43a937_MITCMS_594S19_design_journal.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Design Journal
 parent_type: CourseSection
