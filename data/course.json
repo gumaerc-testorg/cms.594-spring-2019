@@ -26,7 +26,9 @@
   },
   "course_title": "Education Technology Studio",
   "course_description": "Students use media and technology to develop new forms of learning experiences in schools, workplaces, and informal settings. Students participate in a range of new and ongoing projects that hone understanding and skills in learning science, instructional design, development and evaluation.\n",
-  "department_numbers": [],
+  "department_numbers": [
+    "CMS-W"
+  ],
   "extra_course_numbers": "CMS.894",
   "primary_course_number": "CMS.594",
   "course_image_thumbnail": {
@@ -35,8 +37,10 @@
   },
   "learning_resource_types": [
     "Lecture Notes",
-    "Projects with Examples"
+    "Projects with Examples",
+    "Instructor Insights"
   ],
-  "site_uid": "6db94c17-5294-40b6-a72f-4de497e25815",
+  "site_uid": "793fcfc2-222a-42df-837c-bfa8052ef22d",
+  "short_id": "cms.594-spring-2019",
   "title": "Course Metadata"
 }
