@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/cms-594-education-technology-studio-spring-2019/29cf54c8a54cb92fd10ebcf67846eeae_MITCMS_594S19_final_textbook.pdf
+file_size: 96585
 file_type: application/pdf
 learning_resource_types:
 - Projects
