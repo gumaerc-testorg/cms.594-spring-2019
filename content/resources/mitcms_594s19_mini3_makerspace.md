@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/cms-594-education-technology-studio-spring-2019/1aa70276b881b2a5ff1c815af98f154f_MITCMS_594S19_mini3_makerspace.pdf
+file_size: 125591
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
