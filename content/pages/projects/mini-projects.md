@@ -26,7 +26,7 @@ The report should include the following sections:
 5.  Results of your prototype
 6.  Include your prototype or code as part of the project submission so that your work is reproducible by the course staff.
 
-The report should be between 2 and 5 pages. The section headings above should be used to structure the report. Depending on the nature of your project, your report might include more visuals (e.g. if you are working on visualizations), more methodological (e.g. if you are building up machine learning models) or more descriptive (e.g. if you are doing exploratory analysis). As an example of a scientific report on a learning analytics dashboard, take a look at {{% resource_link "142ca954-df1b-436f-8334-f2f6e9f7fb7a" "Ruipérez-Valiente (2017)" %}}.
+The report should be between 2 and 5 pages. The section headings above should be used to structure the report. Depending on the nature of your project, your report might include more visuals (e.g. if you are working on visualizations), more methodological (e.g. if you are building up machine learning models) or more descriptive (e.g. if you are doing exploratory analysis). As an example of a scientific report on a learning analytics dashboard, take a look at [Ruipérez-Valiente (2017)](https://ieeexplore.ieee.org/document/7774979).
 
 Students will include a link to the presentation slides in their {{% resource_link ace93d2b-fbf7-732b-4baf-d796ac722cc5 "design journal" %}} and should upload mini-project #1 submission report to the course website.
 

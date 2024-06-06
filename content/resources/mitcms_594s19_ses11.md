@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/cms-594-education-technology-studio-spring-2019/e75265ad66eba79fea8fd6eb0b007b75_MITCMS_594S19_ses11.pdf
+file_size: 836319
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
