@@ -78,7 +78,7 @@ Hussainy, S. Y., Styles, K., & Duncan, G. (2012). "[A virtual practice environme
 Reich, J., Kim, Y. J., Robinson, K., Roy, D., & Thompson, M. (2018). "[Teacher practice spaces: Examples and design considerations](https://osf.io/preprints/socarxiv/ewn2g/)." In *J. Kay & R. Luckin (Eds.), 13th International Conference of the Learning Sciences* (pp. 648–655). London, UK.
 {{< tdclose >}}{{< tdopen >}}
 
-Video: [What is design-based implementation research (DBIR)?](http://learndbir.org/)
+Video: [What is design-based implementation research (DBIR)?](https://www.colorado.edu/research/learn-dbir/)
 
 Martin, W. Fishman, B., Penuel, W. R., Allen, A., & Cheng, B. H., & Sabelli, N. (2013). "Design-based implementation research: An emerging model for transforming the relationship of research and practice." In *Fishman, Penuel, Allen, & Cheng (Eds.), Design-based implementation research: Theories, methods, and exemplars*. National Society for the Study of Education Yearbook, Vol. 112(2), pp. 136-156. New York: Teachers College Record.
 
