@@ -134,7 +134,7 @@ Identify 1–3 [WCAG 2.1 standards](https://www.w3.org/TR/WCAG21/) and describe 
 
 U.S. Department of Education, Office of Educational Technology. "[EdTech developer’s guide (PDF 1.3MB)](https://tech.ed.gov/files/2015/04/Developer-Toolkit.pdf)." Washington, D.C., 2015. 
 
-Podcast: [The national education technology plan: How technology can improve teaching and learning](https://www.air.org/resource/national-education-technology-plan-how-technology-can-improve-teaching-and-learning#partI).
+Podcast: [The national education technology plan: How technology can improve teaching and learning](https://www.air.org/resource/podcast/national-education-technology-plan-how-technology-can-improve-teaching-and).
 
 [IDEO interview resources](http://www.designkit.org/methods), particularly the "[Expert Interview](https://www.designkit.org/methods/expert-interview.html)" and the "[Extremes and Mainstreams](https://www.designkit.org/methods/extremes-and-mainstreams.html)" guides.
 
