@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/cms-594-education-technology-studio-spring-2019/571384f816c6f9bd72b505efebe08c7d_MITCMS_594S19_mini2_lab.pdf
+file: /ol-ocw-studio-app/courses/cms-594-education-technology-studio-spring-2019/571384f816c6f9bd72b505efebe08c7d_MITCMS_594S19_mini2_lab.pdf
 file_size: 86372
 file_type: application/pdf
 learning_resource_types: []
