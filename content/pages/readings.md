@@ -27,32 +27,32 @@ Rabbit Hole
 2
 {{< tdclose >}}{{< tdopen >}}
 
-Siemens, G., & Long, P. (2011). "[Penetrating the fog: Analytics in learning and education (PDF - 1.3MB)](https://er.educause.edu/~/media/files/article-downloads/erm1151.pdf)." *EDUCAUSE review*, 46 (5), 30.
+Siemens, G., & Long, P. (2011). "{{% resource_link "507b66f5-d039-405b-8870-8fe461e1ec9f" "Penetrating the fog: Analytics in learning and education (PDF - 1.3MB)" %}}." *EDUCAUSE review*, 46 (5), 30.
 
-Ferguson, R. (2012). "[Learning analytics: drivers, developments and challenges (PDF)](http://oro.open.ac.uk/36374/1/IJTEL40501_Ferguson%20Jan%202013.pdf)." *International Journal of Technology Enhanced Learning*, 4 (5/6), 304–317. 
+Ferguson, R. (2012). "{{% resource_link "4058555d-520d-4851-b4df-f509540bf5b0" "Learning analytics: drivers, developments and challenges (PDF)" %}}." *International Journal of Technology Enhanced Learning*, 4 (5/6), 304–317. 
 
 Chatti, M. A., Dyckhoff, A. L., Schroeder, U., & Thüs, H. (2012). "A reference model for learning analytics." *International Journal of Technology Enhanced Learning*, 4 (5–6), 318–331. 
 
-Veeramachaneni, K., O'Reilly, U. M., & Taylor, C. (2014). "[Towards feature engineering at scale for data from massive open online courses (PDF)](https://arxiv.org/pdf/1407.5238.pdf)." arXiv preprint arXiv:1407.5238. 
+Veeramachaneni, K., O'Reilly, U. M., & Taylor, C. (2014). "{{% resource_link "b5b0e354-3c15-4efe-999a-365c0d8388f8" "Towards feature engineering at scale for data from massive open online courses (PDF)" %}}." arXiv preprint arXiv:1407.5238. 
 
-[List of R tutorials](https://www.r-bloggers.com/curated-list-of-r-tutorials-for-data-science/).
+{{% resource_link "dd9ddb35-3bd9-4c1a-bf46-cb59e0f409cc" "List of R tutorials" %}}.
 
-[Python Pandas tutorial](https://www.tutorialspoint.com/python_pandas).
+{{% resource_link "d7c2d233-055b-436b-b58d-09f020f01b1a" "Python Pandas tutorial" %}}.
 
 {{< tdclose >}}{{< tdopen >}}
-Ruipérez-Valiente, J. A. (2017). "[Analyzing the behavior of students regarding learning activities, badges, and academic dishonesty in MOOC environments (PDF - 17MB)](https://e-archivo.uc3m.es/rest/api/core/bitstreams/eb0c7796-e9bd-439e-b20f-c008db7b6b18/content)." Doctoral dissertation.
+Ruipérez-Valiente, J. A. (2017). "{{% resource_link "eb9c1984-932f-426d-822d-0307abb4f849" "Analyzing the behavior of students regarding learning activities, badges, and academic dishonesty in MOOC environments (PDF - 17MB)" %}}." Doctoral dissertation.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
 {{< tdclose >}}{{< tdopen >}}
-Verbert, K., Duval, E., Klerkx, J., Govaerts, S., & Santos, J. L. (2013). "[Learning analytics dashboard applications](https://journals.sagepub.com/doi/10.1177/0002764213479363)." *American Behavioral Scientist*, 57 (10), 1500-1509.
+Verbert, K., Duval, E., Klerkx, J., Govaerts, S., & Santos, J. L. (2013). "{{% resource_link "0a5d3b20-8570-496c-bbeb-6163e7fca728" "Learning analytics dashboard applications" %}}." *American Behavioral Scientist*, 57 (10), 1500-1509.
 {{< tdclose >}}{{< tdopen >}}
 
 Depending on the data-driven mini-project you are trying to build, you might find some of these resources useful:
 
-- [Visualization tutorial for R library ggplot2](http://r-statistics.co/ggplot2-Tutorial-With-R.html).
-- [Complete ggplot2 tutorial.](http://r-statistics.co/Complete-Ggplot2-Tutorial-Part1-With-R-Code.html)
-- [Shiny web framework and server tutorial](https://shiny.rstudio.com/tutorial/).
-- [Machine learning tutorial with R library caret](https://www.machinelearningplus.com/machine-learning/caret-package/).
+- {{% resource_link "4dede12d-9974-448f-900e-c8222c4c8fe6" "Visualization tutorial for R library ggplot2" %}}.
+- {{% resource_link "f67a3aa5-97ac-4fc0-b78d-2027729cd3e9" "Complete ggplot2 tutorial." %}}
+- {{% resource_link "405c2779-3d38-443f-9f46-d5b068a16871" "Shiny web framework and server tutorial" %}}.
+- {{% resource_link "b7f84e9d-08dc-41ca-819f-ee2534403d9e" "Machine learning tutorial with R library caret" %}}.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -64,25 +64,25 @@ Identify a potential user/consumer of your mini-project. Share your prototype wi
 5
 {{< tdclose >}}{{< tdopen >}}
 
-Grossman, P., Compton, C., Igra, D., Ronfeldt, M., Shahan, E., & Williamson, P. (2009). "[Teaching practice: A cross-professional perspective (PDF - 1MB)](https://tedd.org/wp-content/uploads/2014/03/Grossman-et-al-Teaching-Practice-A-Cross-Professional-Perspective-copy.pdf?__cf_chl_jschl_tk__=f34c04f579ac9d307f87a049c4df780305bab234-1623683122-0-AX5BnBzwZaBdjINuGqO-ZLzCMRlsSvkHruSml4S_8Y-SJ36hZyC49ZU9GRVrXdkojBKo5V-PPhrPdg7i9ivBj3665qBvxN4Z-0TrOjfIi_gVyMHqQaeed_62z0X3ucIu6861wwZ2QDUIqXBJa5qBLYjQ0n109GAXOO9ZnqJWcQT3xxsKBUWxHWwlKw-b33jeqPBcuQQXezmq6un2qeAYRZZIHzBaNLE74-W_s_mth4FkkLaGJBBAlWmKd432oRSYhwSvQST_eF4YmLxtoPmn0fxks_qmP1LSEDWb-571ihfMkGMCWJ292PZE5U8aMBHTQw79N9hpyDjruZ5DYeY28OKNlym8-gMy4_DOvfQDLlKDLpU39md7nuWpRubxxhr4JHjSMlg1jJE4fYr8P23tORQTYBUBwGGhYuNMgcA2YvoDNGmqpSp85joJXdSmNErFrEOHbG1RlhG_ZEyJ06qKRtKYUoFmlD_nZ8tYc1kqiPFR-xKQucLgNUQyrUx3W4hMCGpB2EpUHESNySmsNqvGbCw)." *Teachers College Record*, 111 (9), 2055–2100.
+Grossman, P., Compton, C., Igra, D., Ronfeldt, M., Shahan, E., & Williamson, P. (2009). "{{% resource_link "7e9cc896-3c22-4736-9b83-e5ab345051b2" "Teaching practice: A cross-professional perspective (PDF - 1MB)" %}}." *Teachers College Record*, 111 (9), 2055–2100.
 
-Dotger, B., & Ashby, C. (2010). "[Exposing conditional inclusive ideologies through simulated interactions](https://www.researchgate.net/publication/258193089_Exposing_Conditional_Inclusive_Ideologies_Through_Simulated_Interactions)." *Teacher Education and Special Education: The Journal of the Teacher Education Division of the Council for Exceptional Children*, 33 (2), 114–130. 
+Dotger, B., & Ashby, C. (2010). "{{% resource_link "f17a0b5f-1624-4645-83ed-9622165be1a1" "Exposing conditional inclusive ideologies through simulated interactions" %}}." *Teacher Education and Special Education: The Journal of the Teacher Education Division of the Council for Exceptional Children*, 33 (2), 114–130. 
 
-Robinson, K., Jahanian, K., & Reich, J. (2018). "[Using online practice spaces to investigate challenges in enacting principles of equitable computer science teaching](https://dl.acm.org/doi/10.1145/3159450.3159503)." In *Proceedings of the 49th ACM Technical Symposium on Computer Science Education - SIGCSE ’18* (pp. 882–887). New York, New York, USA: ACM Press. 
+Robinson, K., Jahanian, K., & Reich, J. (2018). "{{% resource_link "eaca820b-1a81-4626-9d93-15554bb03257" "Using online practice spaces to investigate challenges in enacting principles of equitable computer science teaching" %}}." In *Proceedings of the 49th ACM Technical Symposium on Computer Science Education - SIGCSE ’18* (pp. 882–887). New York, New York, USA: ACM Press. 
 
 {{< tdclose >}}{{< tdopen >}}
-Hussainy, S. Y., Styles, K., & Duncan, G. (2012). "[A virtual practice environment to develop communication skills in pharmacy students](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3530064/)." *American Journal of Pharmaceutical Education*, 76(10), 202.
+Hussainy, S. Y., Styles, K., & Duncan, G. (2012). "{{% resource_link "ee154bee-5fd6-4d18-a3e6-c58a66950723" "A virtual practice environment to develop communication skills in pharmacy students" %}}." *American Journal of Pharmaceutical Education*, 76(10), 202.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
 {{< tdclose >}}{{< tdopen >}}
-Reich, J., Kim, Y. J., Robinson, K., Roy, D., & Thompson, M. (2018). "[Teacher practice spaces: Examples and design considerations](https://osf.io/preprints/socarxiv/ewn2g/)." In *J. Kay & R. Luckin (Eds.), 13th International Conference of the Learning Sciences* (pp. 648–655). London, UK.
+Reich, J., Kim, Y. J., Robinson, K., Roy, D., & Thompson, M. (2018). "{{% resource_link "5c55400a-d68d-480a-898b-7f0cb6b3e6bf" "Teacher practice spaces: Examples and design considerations" %}}." In *J. Kay & R. Luckin (Eds.), 13th International Conference of the Learning Sciences* (pp. 648–655). London, UK.
 {{< tdclose >}}{{< tdopen >}}
 
-Video: [What is design-based implementation research (DBIR)?](https://www.colorado.edu/research/learn-dbir/)
+Video: {{% resource_link "0544235c-a6f4-4e63-ac21-e2e8e3358bea" "What is design-based implementation research (DBIR)?" %}}
 
 Martin, W. Fishman, B., Penuel, W. R., Allen, A., & Cheng, B. H., & Sabelli, N. (2013). "Design-based implementation research: An emerging model for transforming the relationship of research and practice." In *Fishman, Penuel, Allen, & Cheng (Eds.), Design-based implementation research: Theories, methods, and exemplars*. National Society for the Study of Education Yearbook, Vol. 112(2), pp. 136-156. New York: Teachers College Record.
 
-Ee, J. "[How design thinking is transforming businesses through technology](https://blog.rackspace.com/design-thinking-transforming-businesses-through-technology)." Rackspace. April 13, 2018.
+Ee, J. "{{% resource_link "369c4e0b-e6ad-4db5-9024-95dec6d99dec" "How design thinking is transforming businesses through technology" %}}." Rackspace. April 13, 2018.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
@@ -94,27 +94,27 @@ Create a short pitch deck that you would present to a potential partners (e.g., 
 8
 {{< tdclose >}}{{< tdopen >}}
 
-CAST. "[UDL at a glance](https://www.youtube.com/watch?v=bDvKnY0g6e4)." YouTube. Jan 6, 2010.
+CAST. "{{% resource_link "017413a0-dfa5-44b1-91dc-b2933477acab" "UDL at a glance" %}}." YouTube. Jan 6, 2010.
 
-Meyer, A., Rose, D.H., & Gordon, D. (2014). [*Universal design for learning: Theory and Practice*](http://udltheorypractice.cast.org/login)*.* Wakefield, MA: CAST Professional Publishing. (Create log-in and password to access this free book.)
+Meyer, A., Rose, D.H., & Gordon, D. (2014). {{% resource_link "3a1a6129-b6a9-4aaa-b734-a5f2e035c7f6" "*Universal design for learning: Theory and Practice*" %}}*.* Wakefield, MA: CAST Professional Publishing. (Create log-in and password to access this free book.)
 
-CAST (2018). [*Universal design for learning guidelines version 2.2.*](http://udlguidelines.cast.org/)
+CAST (2018). {{% resource_link "049edd79-9430-457d-bd6b-a5ce5235ed3b" "*Universal design for learning guidelines version 2.2.*" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 
-[National Education Technology Plan (2017)](https://tech.ed.gov/netp/). 
+{{% resource_link "57c3e700-51bb-45f4-af59-763dbf8f97a5" "National Education Technology Plan (2017)" %}}. 
 
-Elder, B. et al. "[From attitudes to practice: Utilising inclusive teaching strategies in Kenyan primary schools (PDF)](https://static1.squarespace.com/static/58484e5c29687fa0619950ac/t/58487e7cb3db2b3b3873689f/1481145993303/Elder%2C+Damiani+%26+Oswago+%282015%29-+Inclusion+in+Kenyan+Schools.pdf)." *International Journal of Inclusive Education*, 2015.
+Elder, B. et al. "{{% resource_link "e2acc07e-5987-4577-9c78-a25476f6e879" "From attitudes to practice: Utilising inclusive teaching strategies in Kenyan primary schools (PDF)" %}}." *International Journal of Inclusive Education*, 2015.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
 {{< tdclose >}}{{< tdopen >}}
-Marino, M. T., Gotch, C., Israel, M., Vasquez, E. III, Basham, J. D., & Becht, K. (2014). "[UDL in the middle school science classroom: Can video games and alternative text heighten engagement and learning for students with learning disabilities?](https://www.researchgate.net/publication/260036370_UDL_in_the_Middle_School%20Science_Classroom_Can_Video_Games_and_Alternative_Text_Heighten_Engag%20ement_and_Learning_for_Students_With_Learning_Disabilities/stats)" *Learning Disability Quarterly*, 37, 87–99. 
+Marino, M. T., Gotch, C., Israel, M., Vasquez, E. III, Basham, J. D., & Becht, K. (2014). "{{% resource_link "ed663565-200d-42cf-8cab-6add8ae24635" "UDL in the middle school science classroom: Can video games and alternative text heighten engagement and learning for students with learning disabilities?" %}}" *Learning Disability Quarterly*, 37, 87–99. 
 {{< tdclose >}}{{< tdopen >}}
 
-McCready, R. "[20+ user persona examples, templates and tips for targeted decision-making](https://venngage.com/blog/user-persona-examples/)." Venngage. July 25, 2019.
+McCready, R. "{{% resource_link "fb3da0de-a928-45d5-bb0f-50499d4a5a84" "20+ user persona examples, templates and tips for targeted decision-making" %}}." Venngage. July 25, 2019.
 
-Salomao, R. et al (2015). "[Defining personas of university students for the development of a digital educational game to learn portuguese as a foreign language](https://www.sciencedirect.com/science/article/pii/S2351978915009427)." *Procedia Manufacturing*, 3, 6214–6222.
+Salomao, R. et al (2015). "{{% resource_link "9ce14532-ab69-4638-a2b4-c1be494243d1" "Defining personas of university students for the development of a digital educational game to learn portuguese as a foreign language" %}}." *Procedia Manufacturing*, 3, 6214–6222.
 
 Create a one-pager that contrasts the assets and barriers of 2–3 personas (e.g., a student with dyslexia, a high performing student, a student with ADHD) and briefly describe (200 words) how your design might change outcomes for these students.
 
@@ -126,17 +126,17 @@ None—students will focus on the final development sprint for their learning UD
 
 508 Standards Overview (2017)
 
-Identify 1–3 [WCAG 2.1 standards](https://www.w3.org/TR/WCAG21/) and describe or demonstrate how your design meets the success criteria. Alternatively describe or demonstrate the remaining work you would need to do in order to meet the success criteria (e.g., if your design includes video does it meet [Success criterion 1.2.2 captions (prerecorded)](https://www.w3.org/TR/WCAG21/#captions-prerecorded)?).
+Identify 1–3 {{% resource_link "adcd53e6-ec72-415d-8a15-42becac8366c" "WCAG 2.1 standards" %}} and describe or demonstrate how your design meets the success criteria. Alternatively describe or demonstrate the remaining work you would need to do in order to meet the success criteria (e.g., if your design includes video does it meet {{% resource_link "20ecffef-5901-40fc-8057-c66a8be3b2db" "Success criterion 1.2.2 captions (prerecorded)" %}}?).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
 {{< tdclose >}}{{< tdopen >}}
 
-U.S. Department of Education, Office of Educational Technology. "[EdTech developer’s guide (PDF 1.3MB)](https://tech.ed.gov/files/2015/04/Developer-Toolkit.pdf)." Washington, D.C., 2015. 
+U.S. Department of Education, Office of Educational Technology. "{{% resource_link "762e1444-8afa-441f-9d62-dbe6d6cc878d" "EdTech developer’s guide (PDF 1.3MB)" %}}." Washington, D.C., 2015. 
 
-Podcast: [The national education technology plan: How technology can improve teaching and learning](https://www.air.org/resource/podcast/national-education-technology-plan-how-technology-can-improve-teaching-and).
+Podcast: {{% resource_link "9fea2c34-118b-489b-80fe-59b004adcd7f" "The national education technology plan: How technology can improve teaching and learning" %}}.
 
-[IDEO interview resources](http://www.designkit.org/methods), particularly the "[Expert Interview](https://www.designkit.org/methods/expert-interview.html)" and the "[Extremes and Mainstreams](https://www.designkit.org/methods/extremes-and-mainstreams.html)" guides.
+{{% resource_link "5eae8406-5b7e-42cc-bd6f-68c1a03d973e" "IDEO interview resources" %}}, particularly the "{{% resource_link "534b2800-f186-461e-977b-c380b1a9a8ad" "Expert Interview" %}}" and the "{{% resource_link "6c3f20bc-8f12-4af5-aad8-9ed9d96547de" "Extremes and Mainstreams" %}}" guides.
 
 {{< tdclose >}}{{< tdopen >}}
 
