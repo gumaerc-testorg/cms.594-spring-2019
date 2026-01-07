@@ -121,7 +121,7 @@ This class will explore accessibility from a Universal Design for Learning (UDL)
 ### Session activities:
 
 *   Using the UDL guidelines version 2.2: For the mini-project we will self-organize into three groups that focus on the How, What, and Why of learning. Based on the group you select, your group will focus on one of the principles of UDL. You will be provided the UDL guidelines 2.2 which has checkpoints beneath the three principles of UDL. Your group will choose 1-3 checkpoints from the principle you selected (How, What, or Why) and illustrate the influence of the checkpoints(s) on educational technology.
-*   Working individually or in small groups, students will compare Book Builder with another technology. Students will select the comparison technology from the {{% resource_link "ce630e6b-c0a6-4bf3-b318-3a8247f531bd" "curated list of free online books" %}}. Alternatively, students may consider one of the mini-projects from previous sessions in this course.
+*   Working individually or in small groups, students will compare Book Builder with another technology. Students will select the comparison technology from the [curated list of free online books](http://www.openculture.com/free_ebooks). Alternatively, students may consider one of the mini-projects from previous sessions in this course.
 *   After considering how UDL can improve the comparison technology, we will discuss what we saw in terms of features available in Book Builder and the comparison technology.
 *   Complete an exit ticket.
 

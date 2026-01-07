@@ -57,7 +57,7 @@ Familiarize yourself with the syllabus and come prepared to ask clarifying quest
 {{< tdopen >}}
 
 
-Familiarize yourself with the {{% resource_link "c4755cab-92f3-4561-930e-e2a73afe6d4a" "HarvardX-MITx Person-Course Academic Year 2013 De-Identified dataset" %}} and brainstorm ideas about what to do, analyze or build based on the provided dataset.
+Familiarize yourself with the [HarvardX-MITx Person-Course Academic Year 2013 De-Identified dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/26147) and brainstorm ideas about what to do, analyze or build based on the provided dataset.
 
 Review your knowledge of a data analysis programing language (R or Python).
 
